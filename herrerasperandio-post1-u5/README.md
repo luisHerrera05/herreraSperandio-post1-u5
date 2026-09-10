@@ -43,10 +43,4 @@ guarda el nombre del usuario identificado y el último filtro aplicado.
    war exploded de `gestion-tareas`
 5. Acceder a `http://localhost:8080/gestion-tareas/tareas`
 
-## Capturas de pantalla
-![Lista de tareas con filtro](img/captura-01.png)
-![Detalle de una tarea](img/captura-02.png)
 
-> Nota: agrega tus propias capturas de pantalla en `src/main/webapp/../img`
-> (o en una carpeta `img/` en la raíz) antes de la entrega final, mostrando
-> el listado con un filtro aplicado y la vista de detalle de una tarea.
